@@ -8,7 +8,7 @@
 
 ## Get Started
 **Use git commands to Download the Content on your PC**
-> git clone https://github.com/ahmedm-sallam/CS-Level-4.git
+> git clone [https://github.com/ahmedm-sallam/CS-Level-4.git](https://github.com/ahmedm-sallam/FCAI-CS-Final-Semester.git)
 
 > git pull
 
