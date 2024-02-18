@@ -14,15 +14,15 @@
 
 ## Schedule V01
 
-![V01](https://github.com/ahmedm-sallam/FCAI-CS-Final-Semester/assets/97572668/3295ed70-a633-4969-835a-8460cf4c29c5)
+[CS Schedule V02](https://github.com/ahmedm-sallam/FCAI-CS-Final-Semester/assets/97572668/c824675c-517d-49dc-b229-c0dfdab36db6)
 
 ## Courses Google Classroom Link
 
 **Computation Theory**
->
+> https://classroom.google.com/c/NjYzODA2MTYzNTkw?cjc=jt6zoej
 
 **Cloud computing**
->
+> WhatsApp Group
 
 **Natural language processing**
 >
