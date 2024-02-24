@@ -27,11 +27,8 @@
 **Natural language processing**
 >
 
-**Software Testing and Quality Assurance**
-> 
-
 **Selected Topics in CS-2**
->
+> https://classroom.google.com/c/NjY0MTIwNDgyNjk0?cjc=hiylvsj
 
 ## Pervious Materials
  
