@@ -14,7 +14,7 @@
 
 ## Schedule V03
 
-![CS Schedule V03](https://github.com/ahmedm-sallam/FCAI-CS-Final-Semester/assets/97572668/e2cde9e6-84a2-490c-98e9-f0bbbc69d99e)
+![CS Schedule V03](https://github.com/ahmedm-sallam/FCAI-CS-Final-Semester/assets/97572668/2210bcde-a0bf-49c8-8ece-3acc0f14dad0)
 
 ## Courses Google Classroom Link
 
