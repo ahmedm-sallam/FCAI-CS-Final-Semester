@@ -25,7 +25,7 @@
 > WhatsApp Group
 
 **Natural language processing**
->
+> https://classroom.google.com/c/NjY1ODMxNzg3NjY3?cjc=mkx4ehh
 
 **Selected Topics in CS-2**
 > https://classroom.google.com/c/NjY0MTIwNDgyNjk0?cjc=hiylvsj
