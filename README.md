@@ -1,5 +1,7 @@
 # FCAI-CS-Final-Semester
 
+**الحمد لله والصلاة والسلام على رسول الله وعلى آله وصحبه**
+
 **_Welcome to CU-FCAI-CS 2024 Final Semester Material Repository_**
 
 **_🔻🇵🇸 Free Palestine 🇵🇸🔻_**
