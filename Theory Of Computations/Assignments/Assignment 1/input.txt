@@ -1,0 +1,50 @@
+1
+ramesh@gmail.com
+tom@yahoocom
+34234sdfa#2345
+end
+2
+1234567890
+123-456-7890
+(123)-456-7890
+1230456 7890
+123/456/7890
+end
+3
+11/3/2024
+1st-03-2024
+1 10 123
+end
+4
+192.168.1.1
+192.168.1.256
+end
+5
+x
+x1y2
+_hello
+1x
+bad name
+!name
+end
+6
+bbb
+bBb
+aabbvs10nkn0b
+end
+7
+aabb
+aabaaaaabaa
+end
+8
+The cat is cute
+an apple
+end
+9
+C:\problem9file.txt
+end
+10
+3x-3y=90
+3x*-3y/z=90+n
+=9
+end
