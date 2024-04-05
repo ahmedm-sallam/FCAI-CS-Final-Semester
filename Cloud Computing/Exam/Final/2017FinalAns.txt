@@ -1,0 +1,73 @@
+Question 1: Define the Following:
+
+a)Scalability:
+ =>The degree to which the system will remain effective when there is increase in the number of resource and thr number of users.
+ =>Ability of a system to handle an increase in amount of load.	
+	
+b)Jugle Computing:
+ =>Combination of heterogeneous , hierarical and distributed computing resource.
+
+c)Migration Services:
+
+
+d)Emulation:
+ => A system pretends to be another system.
+
+e) Virtualization:
+ =>It is a technology to run multiple same or diffirent OSs on a single Physical Machine which are completely isolated from each other.
+
+
+ 
+ Question 2:What is the relation between the following:
+ 
+ a) Location transparency and Availability:
+  =>User can access resource without knowledge of its location
+   eg, URL therfor this url should have high Availability.
+   
+ b)Public cloud and Private cloud:
+  =>They are both types of deployment in the cloud.
+    They could be part of the hybrid cloud.
+	
+ c)Migration and Green ICT:
+  =>Migration free up space and reduce power which is better for the environment.
+  
+  d) Cloud CAP-EX and OP-EX:
+   =>They are both Benefits of virtualization over cloud computing.
+   => Can be done with server consolidation
+   
+ e) VM migration and SLA:
+  => Migration could increase down time and deacrease Performance ,which violates SLA.
+  => If a VM is consuming more than its fair share of resource , it will be eligble for this machine
+  to be moved to another underutilized host or assign for resources for it if available.
+	
+ f) VM Migration and On-Demand Computing:
+  =>Workload monitoring and migrating is done without human interaction.
+
+
+Question 3: What is the Similarities and Differences:
+
+a)P2P Computing and Grid Computing:
+ SIM => P2P is the infrastructrue of Grid. / Both are distributed systems.
+ Differences => P2P is free and Decentralized , grid is pay as you use and Centralized
+ 
+ 
+ 
+b)Over Provisioning and Under Provisioning:
+Sim => Both should be avoided.
+Diff => over: allocating more resource than required,
+ under: Allocating fewer resoures than required.
+ 
+ 
+ c) Regular Migration and Live Migration:
+  Sim=>Both are from VM migration technique.
+  Diff=> Regular:VM is completely powered off before migration , no shared memory.
+     Live: VM is Powered on while migrating , Requrie shared memory.
+
+d) Full , Para and OS Virtualization:
+Sim=> They are all types of virtualization Hypervisor.
+Diff=> Full: Hypervisor is sitting on the Hardware directly , No Host OS
+  Para:Hypervisor is sitting on Host OS , each vm has separate OS
+   OS:Known as Containerzation , doesn't require a separate OS.
+   
+
+e)Process Migration and VM migration:
