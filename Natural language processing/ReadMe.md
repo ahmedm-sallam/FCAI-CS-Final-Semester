@@ -5,3 +5,7 @@
 
 *_Lecture 3 "Morphological analysis" Audio_* :
 > https://drive.google.com/drive/folders/14lfhp-I7dEKpFG5IQQqFL08ubE0dFW8-
+
+*_Morphological analysis by Roaa El-Rawy_* :
+
+> https://youtu.be/GTnVSL91_po?si=guztgtXDYv62RROj
