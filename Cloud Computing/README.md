@@ -10,14 +10,8 @@
 
 > https://youtu.be/_ru_v1yn0Ik
 
-- Cloud Lab Task 1 ("Notifications in Flutter using Firebase") by Ahmed Zayden
+- Cloud Lab Tasks by Ahmed Zayden
 
  *you will find steps in folder Task solution by Zayden*
 
-> https://youtu.be/jO4CHVxiAeo?si=pnWhKoHGTVpYNd2K
-
-- Cloud Lab Task 2 ("Write to database in Flutter using Firebase ") by Ahmed Zayden
-
- *you will find steps in folder Task solution by Zayden*
-
-> https://youtu.be/QN3YXnfCQhQ
+>https://www.youtube.com/watch?v=W4PoJh6JxfI&list=PLXJqASpNjjqJcu2pv8LOSqoTTZKswl6Ax
