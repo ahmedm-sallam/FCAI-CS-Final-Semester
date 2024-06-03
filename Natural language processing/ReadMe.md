@@ -1,5 +1,9 @@
 # NLP
 
+*_Dr.Hanna 2024 Videos_*:
+
+>https://www.youtube.com/watch?v=4C4-fOeMqp8&list=PLXJqASpNjjqJAAZIvZDZm0KEM23o7zkjV
+
 *_Dr.Hanna Old Videos_* :
  
 > https://drive.google.com/drive/u/0/folders/1ikpK9P3lgtH2KuNfaJcCbx8GV6Ew7nW3?sort=13&direction=a
@@ -16,6 +20,3 @@
 
 > https://youtu.be/i4PEM7X4aTU?si=ndQpxJOV02Cbjnul
 
-*_Dr.Hanna 2024 Videos_*:
-
->https://www.youtube.com/watch?v=4C4-fOeMqp8&list=PLXJqASpNjjqJAAZIvZDZm0KEM23o7zkjV
