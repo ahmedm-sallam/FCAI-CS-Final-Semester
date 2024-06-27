@@ -6,6 +6,10 @@
 
 **_🔻🇵🇸 Free Palestine 🇵🇸🔻_**
 
+![senior photo](https://github.com/ahmedm-sallam/FCAI-CS-Final-Semester/assets/97572668/f9b3f72e-0d2e-44b3-a3ba-beda91221fd3)
+
+
+
 ![CS Logo](https://github.com/ahmedm-sallam/CS-Level-4/assets/97572668/e9aa621e-7161-4b51-ac32-ba3f94cfa173)
 
 ## Get Started
