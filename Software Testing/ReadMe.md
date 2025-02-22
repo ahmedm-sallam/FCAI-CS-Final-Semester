@@ -4,7 +4,7 @@
 
 - I sincerely apologize if the content appears random or disorganized,as I did not personally take this course.  However, I hope these materials will still be helpful to you during your studies.  
 
-- تقبلو اعتذاري ولا تنسونا من صالح دعائكم
+تقبلو اعتذاري ولا تنسونا من صالح دعائكم
 
 **أحمد سـلام**
 
